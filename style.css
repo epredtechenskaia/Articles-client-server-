@@ -1,0 +1,12 @@
+.container {
+    padding-top: 10px;
+}
+
+#pagination {
+    margin-bottom: 10px;
+}
+
+.btn {
+    border-color: blueviolet;
+    margin-right: 6px;
+}
